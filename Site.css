@@ -1,0 +1,458 @@
+@media all and (max-width: 1024px){
+header{
+width: auto;
+text-align:center;
+}
+
+body{
+width: auto;
+text-align:center;
+}
+}
+
+@media all and (max-width: 1024px) {
+
+nav{
+width:auto;
+text-align:left;
+}
+
+}
+
+
+header{
+  background-color: #9E9E9E;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+
+}
+
+header p{
+
+  font-size: 1em;
+  color: white;
+  position: absolute;
+  left:50px;
+  top: 10px;
+  font-family: 'Lato', sans-serif
+}
+
+nav ul
+{
+  list-style-type: none;
+  display: flex;
+  }
+
+  nav li {
+    margin-right: 15px;
+
+  }
+
+  nav a {
+    font-size: 1.3em;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 3px;
+    text-decoration: none;
+
+  }
+
+  nav a:hover{
+
+    color: black;
+    border-bottom: 3px solid black;
+  }
+
+  footer{
+    background-color: #9E9E9E;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+  }
+
+  footer p {
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .reseaux{
+    display: grid ;
+    grid-template-columns:1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align:center;
+    margin-left: 1200px;
+    padding: 7px;
+    list-style-type: none;
+    background-color: white;
+    background-size: 100px;
+    position: absolute;
+    bottom: 250px;
+  }
+
+  .reseaux2{
+    display: grid ;
+    grid-template-columns:1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align:center;
+    margin-left: 1300px;
+    padding: 7px;
+    list-style-type: none;
+    background-color: white;
+    background-size: 100px;
+    position: absolute;
+    bottom: 20px;
+  }
+
+  .reseaux3{
+    display: grid ;
+    grid-template-columns:1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align:center;
+    margin-left: 1300px;
+    padding: 7px;
+    list-style-type: none;
+    background-color: #9E9E9E;
+    background-size: 100px;
+    position: absolute;
+    bottom: 140px;
+  }
+
+  .reseaux4{
+    display: grid ;
+    grid-template-columns:1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align:center;
+    margin-left: 1300px;
+    padding: 7px;
+    list-style-type: none;
+    background-color: white;
+    background-size: 100px;
+    position: absolute;
+    bottom: 180px;
+  }
+
+  .reseaux5{
+    display: grid ;
+    grid-template-columns:1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+    text-align:center;
+    margin-left: 1400px;
+    padding: 7px;
+    list-style-type: none;
+    background-color: white;
+    background-size: 100px;
+    position: absolute;
+    bottom: 160px;
+  }
+
+  .reseaux6{
+    display: grid ;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    background-color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-right: 675px;
+  }
+
+.logo-reseaux{
+  width: 50px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+.logo-reseaux1{
+  width: 50px;
+  height: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+
+
+}
+
+
+#suite{
+  width: 30px;
+  height: 30px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+
+  #sectionprinci{
+
+    background: url('image/ecran-princi.jpg') no-repeat;
+    padding: 176px;
+    background-size: 1580px 1000px;
+    font-family: 'Lato', sans-serif;
+  }
+
+    #prénom {
+
+  font-size: 4em;
+  margin-left: 500px;
+  color: #CFCF57;
+    }
+
+  #approche {
+
+      font-size: 2em;
+      margin-left: 500px
+        }
+
+  #photomoi{
+    width: 600px;
+    height: 606px;
+  position: absolute;
+  top: 65px;
+  left: 8px;
+  }
+
+  #sectionpropos{
+
+    background: url('../image/fond-propos1.jpg') no-repeat;
+    padding: 60px;
+    background-size: 1580px 1000px;
+
+  }
+
+#Presentation{
+  color: white;
+  font-size: 1.2em;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+#propos{
+  color: #CFCF57;
+  font-size: 3em;
+  text-align: center;
+    font-family: 'Lato Black 900', sans-serif;
+    font-weight: bold;
+}
+
+#photomoi1{
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  margin-left:590px;
+
+}
+
+
+#sectioncompetence{
+
+  background: url('../image/fond-propos2.jpg') no-repeat;
+  padding: 116px;
+  background-size: 1450px 1000px;
+}
+
+#sectioncompetence h1{
+ color:white;
+ font-size: 2.5em;
+ margin-top: 300px;
+ position: relative;
+ bottom: 100px;
+ right:90px;
+ font-family: 'Lato Black 900', sans-serif;
+}
+
+.phpcompe{
+text-align: center;
+margin-left: 650px;
+position: absolute;
+bottom: 50px;
+
+}
+
+#compe1{
+  color: #9E9E9E;
+  font-size: 3em;
+  font-family: 'Lato Black 900', sans-serif;
+}
+
+#compe2{
+  color: black;
+  font-size: 1.2em;
+  font-family: 'Lato', sans-serif;
+}
+
+#compe3{
+  color: black;
+    font-size: 1.2em;
+    font-family: 'Lato', sans-serif;
+}
+
+#compe4{
+  color: black;
+  font-size: 1.2em;
+  font-family: 'Lato', sans-serif;
+}
+
+
+#sectionexpérience{
+  background: url('../image/fond7.jpg') no-repeat;
+  padding: 116px;
+  background-size: 1548px 1000px;
+  color: white;
+  font-weight: bold;
+}
+
+#sectionexpérience h1{
+
+  text-align: center;
+  font-size: 3em;
+  font-family: 'Lato Black 900', sans-serif;
+  position: relative;
+  bottom: 100px;
+  color: #CFCF57;
+}
+
+#expe1{
+font-size: 1.3em;
+margin-left: 130px;
+font-family: 'Lato', sans-serif;
+}
+
+#expe2{
+  font-size: 1.3em;
+  margin-left: 130px;
+  font-family: 'Lato', sans-serif;
+
+}
+
+
+.entreprise{
+  width: 150px;
+  height:100px ;
+  position: relative;
+  bottom: 105px;
+  right: 220px;
+
+}
+
+.textexpé{
+  color: white;
+  font-size: 1.5em;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  margin-left: 800px;
+  position: absolute;
+  bottom: 100px;
+  right: 200px;
+}
+
+#cv{
+  color: white;
+  font-size: 1em;
+  margin-left: 550px;
+  text-decoration: none;
+  border: solid;
+  padding: 10px;
+}
+
+#sectionformation{
+  background: url('../image/fond8.jpg') no-repeat;
+  padding: 10px;
+  background-size: 1548px 1000px;
+  color: white;
+}
+
+#sectionformation h1{
+  text-align: center;
+  font-size: 4em;
+  font-family: 'Lato Black 900', sans-serif;
+  position: relative;
+  bottom: 30px;
+
+}
+
+.forma1{
+  font-size: 1.3em;
+  margin-left: 350px;
+  font-family: 'Lato', sans-serif;
+  position: relative;
+  bottom: -10px;
+}
+
+
+.ecole{
+  width: 150px;
+  height:80px;
+  position: relative;
+  bottom: 95px;
+  right: 220px;
+}
+
+.textforma{
+  font-size: 1em;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  margin-left: 800px;
+  position: absolute;
+  top: 240px;
+  right: 200px;
+
+}
+
+.textforma b{
+  color: black;
+}
+
+
+#sectioncontact{
+
+  background: url('../image/fond9.jpg') no-repeat;
+  padding: 87px;
+  background-size: 1580px 1000px;
+  font-family: 'Lato', sans-serif;
+}
+
+#gmail-image{
+  width: 440px;
+  height: 440px;
+position: absolute;
+top: 95px;
+left: 28px;
+}
+
+.pied-page{
+  background-color: #9E9E9E;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.pied-page p {
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Lato', sans-serif;
+}
+
+#mentions1{
+  background-color: #9E9E9E;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 15px;
+}
+
+#mentions1 a{
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+#mentions{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+}
