@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
-    <link rel="stylesheet" href="Site.css">
+    <link rel="stylesheet" href="site1.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -28,10 +28,14 @@
 
   <section id="sectionprinci">
 
-<img id="photomoi" src="image/moi.jpg" alt="Photo de moi">
-<h1 id="prénom">Jean Coignard</h1>
-<h3 id="approche">Brique par brique vers l'avenir </h3>
+<div class="mise1">
 
+<div class="prénom">
+<h1>Jean Coignard</h1>
+<h3>Brique par brique vers l'avenir </h3>
+</div>
+<img id="photomoi" src="image/moi.jpg" alt="Photo de moi">
+</div>
 <div class="reseaux">
   <a href="https://fr-fr.facebook.com/public/Jean-Coignard"><img class="logo-reseaux" src="image/facebook1.png" alt="facebook"></a>
   <a href="https://twitter.com/jeancgnd"><img class="logo-reseaux" src="image/twitter2.png" alt="twitter"></a>

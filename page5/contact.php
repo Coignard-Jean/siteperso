@@ -8,7 +8,7 @@ include("php1.php");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
-    <link rel="stylesheet" href="../Site.css">
+    <link rel="stylesheet" href="../site1.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap" rel="stylesheet">
     <style>
@@ -16,6 +16,7 @@ include("php1.php");
   /* Uniquement centrer le formulaire sur la page */
   margin: 0 auto;
   width: 400px;
+  margin-bottom: 200px
 
   /* Encadré pour voir les limites du formulaire */
   padding: 1em;
@@ -128,10 +129,10 @@ textarea {
     <p>Jean Coignard</p>
   </div>
 
-  <div class="reseaux6">
-    <a href="https://fr-fr.facebook.com/public/Jean-Coignard"><img class="logo-reseaux1" src="../image/facebook1.png" alt="facebook"></a>
-    <a href="https://twitter.com/jeancgnd"><img class="logo-reseaux1" src="../image/twitter2.png" alt="twitter"></a>
-    <a href="https://www.instagram.com/jean.cgnd/"><img class="logo-reseaux1" src="../image/instagram1.png" alt="instagram"></a>
+  <div class="reseaux">
+    <a href="https://fr-fr.facebook.com/public/Jean-Coignard"><img class="logo-reseaux" src="../image/facebook1.png" alt="facebook"></a>
+    <a href="https://twitter.com/jeancgnd"><img class="logo-reseaux" src="../image/twitter2.png" alt="twitter"></a>
+    <a href="https://www.instagram.com/jean.cgnd/"><img class="logo-reseaux" src="../image/instagram1.png" alt="instagram"></a>
   </div>
   <footer id="mentions1">
     <a href="mention.php">Mentions Légales</a>

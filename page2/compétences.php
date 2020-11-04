@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Expérience</title>
-    <link rel="stylesheet" href="../Site.css">
+    <link rel="stylesheet" href="../Site1.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap" rel="stylesheet">
 </head>
@@ -28,6 +28,8 @@
   </header>
 
   <section id="sectioncompetence">
+    <div class="mise2">
+
     <h1>Compétences en informatiques:</h1>
 
 <div class="phpcompe">
@@ -38,31 +40,31 @@ include("php1.php");
   ?>
 </strong>
 </p>
-<p id="compe2">
+<p class="compe2">
   <?php
 include("php2.php");
  ?>
- <progress value="70" max="100">70%</progress>
+  <progress value="70" max="100">70%</progress>
 </p>
 
 
-<p id="compe3">
+<p class="compe2">
   <?php
 include("php3.php");
    ?>
      <progress  value="50" max="100">50%</progress>
 </p>
 
-<p id="compe4">
+<p class="comp2">
   <?php
 include("php4.php");
    ?>
    <progress  value="80" max="100">80%</progress>
  </p>
 </div>
+</div>
 
-
-<div class="reseaux3">
+<div class="reseaux">
   <a href="https://fr-fr.facebook.com/public/Jean-Coignard"><img class="logo-reseaux" src="../image/facebook1.png" alt="facebook"></a>
   <a href="https://twitter.com/jeancgnd"><img class="logo-reseaux" src="../image/twitter2.png" alt="twitter"></a>
   <a href="https://www.instagram.com/jean.cgnd/"><img class="logo-reseaux" src="../image/instagram1.png" alt="instagram"></a>
