@@ -39,6 +39,19 @@ Le responsable publication est une personne physique ou une personne morale.<br 
 <strong>Hébergeur</strong> : Coignard Jean – 35 rue Robert Botherau<br />
 Crédits : <br />
 Le modèle de mentions légales est offert par Subdelirium.com <a target="_blank" href="https://www.subdelirium.com/generateur-de-mentions-legales/" alt="Modèle de mentions légales">Modèle de mentions légales</a></p>
+<h2>Confidentialité</h2>
+<p>
+    Ce site ne collecte aucune donnée nominative à votre insu. Ainsi votre adresse mail ne sera pas conservée
+    à des fins commerciale ou statistiques, elle servira uniquement à vous recontacter. Ainsi vous acceptez
+    en me contactant que je conserve votre adresse pendant une durée d'une semaine, afin de poursuivre les
+    échanges engagés.
+</p>
+<h2>Cookies</h2>
+<p>Nous n'utilisons et ne collectons aucuns cookies internes ou tierces.</p>
+<h2>Données cartographiques</h2>
+<p>
+    Nous n'utilisons et ne collectons aucunes données cartographiques.
+</p>
 
 </section>
 
