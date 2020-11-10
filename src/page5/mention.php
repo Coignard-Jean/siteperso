@@ -52,7 +52,6 @@ Le modèle de mentions légales est offert par Subdelirium.com <a target="_blank
 <p>
     Nous n'utilisons et ne collectons aucunes données cartographiques.
 </p>
-
 </section>
 
 
