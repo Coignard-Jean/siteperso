@@ -29,7 +29,7 @@
 <section id="sectionprinci">
 
 <div class="mise1">
-  <div class="prénom">
+  <div class="prenom">
     <h1>Jean Coignard</h1>
     <h3>Brique par brique vers l'avenir </h3>
      <!--Placement du titre et de l'approche!-->

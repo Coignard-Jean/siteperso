@@ -27,7 +27,7 @@
 
   </header>
 
-  <section id="sectionexpérience">
+  <section id="sectionexperience">
 
 <h1>Expérience professionnelle</h1>
 <div id="expe1">
@@ -45,7 +45,7 @@ include("../app/php2expe.php");
 <img class="entreprise" src="../image/flunch.jpg" alt="flunch">
 </div>
 
-  <p class="textexpé">
+  <p class="textexpe">
     Je dispose de <b>trois expériences
     professionnelles </b>depuis mes 18 ans.
     Cela m'a permit d'avoir un emploi<b> à
