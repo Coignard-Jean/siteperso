@@ -14,3 +14,7 @@ La maquette :
 Pour chaque page j’ai décidé de mettre une image de présentation qui correspond à la partie de la page. Puis à 
 droite de l’image le texte ou le titre correspondant à la partie. Expérience:image→ titre→ texte. Enfin j'ai 
 décidé de mettre pour chaque page, un background image de dégradée avec un style blanc et noir.
+
+Lien Heroku:
+
+https://dashboard.heroku.com/apps/app-jeancoignard/deploy/github
