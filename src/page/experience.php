@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Propos</title>
+    <title>Experience</title>
     <link rel="stylesheet" href="../site1.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap" rel="stylesheet">
@@ -17,11 +17,11 @@
 <nav>
   <ul>
     <li><a href="../index.php">Home Page</a></li>
-    <li><a href="../page1/propos.php">A propos</a></li>
-    <li><a href="../page2/compétences.php">Compétences</a></li>
-    <li><a href="../page3/expérience.php">Experience</a></li>
-    <li><a href="../page4/formation.php">Formation</a></li>
-    <li><a href="../page5/contact.php">Contact</a></li>
+    <li><a href="propos.php">A propos</a></li>
+    <li><a href="competences.php">Compétences</a></li>
+    <li><a href="experience.php">Experience</a></li>
+    <li><a href="formation.php">Formation</a></li>
+    <li><a href="contact.php">Contact</a></li>
   </ul>
 </nav>
 
@@ -48,10 +48,10 @@ include("../app/php2expe.php");
   <p class="textexpe">
     Je dispose de <b>trois expériences
     professionnelles </b>depuis mes 18 ans.
-    Cela m'a permit d'avoir un emploi<b> à
+    Cela m'a permis d'avoir un emploi<b> à
     temps partiel,</b> pour occuper mon temps
     libre durant la période des vacances
-    scolaires. Travailler m'a permit d'une
+    scolaires. Travaillez m'a permis d'une
     part <b>d'appréhender</b> une fois de plus le
     monde professionnel tout en me permettant
     d'accéder à une rémunération qui sera
@@ -59,7 +59,7 @@ include("../app/php2expe.php");
     de mes études.
 
   </p>
-<a id="cv" href="cv-Jean-Coignard.odt">Télécharger mon CV</a>
+<a id="cv" href="../../cv-Jean-Coignard.pdf">Télécharger mon CV</a>
 <br>
 <br>
 <br>
@@ -80,7 +80,7 @@ include("../app/php2expe.php");
 
   <footer>
     <p>Jean Coignard</p>
-  <a href="../page4/formation.php"><img id="suite" src="../image/fleche.png" alt="suite"></a>
+  <a href="formation.php"><img id="suite" src="../image/fleche.png" alt="suite"></a>
    </footer>
 <!--Mise en place du footer avec le changement de page!-->
 

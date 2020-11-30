@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Expérience</title>
+    <title>Compétences</title>
     <link rel="stylesheet" href="../site1.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap" rel="stylesheet">
@@ -17,11 +17,11 @@
 <nav>
   <ul>
     <li><a href="../index.php">Home Page</a></li>
-    <li><a href="../page1/propos.php">A propos</a></li>
-    <li><a href="../page2/compétences.php">Compétences</a></li>
-    <li><a href="../page3/expérience.php">Experience</a></li>
-    <li><a href="../page4/formation.php">Formation</a></li>
-    <li><a href="../page5/contact.php">Contact</a></li>
+    <li><a href="propos.php">A propos</a></li>
+    <li><a href="competences.php">Compétences</a></li>
+    <li><a href="experience.php">Experience</a></li>
+    <li><a href="formation.php">Formation</a></li>
+    <li><a href="contact.php">Contact</a></li>
   </ul>
 </nav>
 
@@ -106,7 +106,7 @@ include("../app/php4compe.php");
 
   <footer>
     <p>Jean Coignard</p>
-  <a href="../page3/expérience.php"><img id="suite" src="../image/fleche.png" alt="suite"></a>
+  <a href="experience.php"><img id="suite" src="../image/fleche.png" alt="suite"></a>
    </footer>
 <!--Mise en place du footer avec le changement de page!-->
 

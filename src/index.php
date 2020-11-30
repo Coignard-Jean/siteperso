@@ -16,11 +16,11 @@
 <nav>
   <ul>
     <li><a href="index.php">Home Page</a></li>
-    <li><a href="page1/propos.php">A propos</a></li>
-    <li><a href="page2/compétences.php">Compétences</a></li>
-    <li><a href="page3/expérience.php">Experience</a></li>
-    <li><a href="page4/formation.php">Formation</a></li>
-    <li><a href="page5/contact.php">Contact</a></li>
+    <li><a href="page/propos.php">A propos</a></li>
+    <li><a href="page/competences.php">Compétences</a></li>
+    <li><a href="page/experience.php">Experience</a></li>
+    <li><a href="page/formation.php">Formation</a></li>
+    <li><a href="page/contact.php">Contact</a></li>
   </ul>
 </nav>
 
@@ -46,7 +46,7 @@
 
 <footer>
     <p>Jean Coignard</p>
-    <a href="page1/propos.php"><img id="suite" src="image/fleche.png" alt="suite"></a>
+    <a href="page/propos.php"><img id="suite" src="image/fleche.png" alt="suite"></a>
  </footer>
  <!--Mise en place du footer avec le changement de page!-->
 

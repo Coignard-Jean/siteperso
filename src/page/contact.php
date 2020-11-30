@@ -80,11 +80,11 @@ textarea {
 <nav>
   <ul>
     <li><a href="../index.php">Home Page</a></li>
-    <li><a href="../page1/propos.php">A propos</a></li>
-    <li><a href="../page2/compétences.php">Compétences</a></li>
-    <li><a href="../page3/expérience.php">Experience</a></li>
-    <li><a href="../page4/formation.php">Formation</a></li>
-    <li><a href="../page5/contact.php">Contact</a></li>
+    <li><a href="propos.php">A propos</a></li>
+    <li><a href="competences.php">Compétences</a></li>
+    <li><a href="experience.php">Experience</a></li>
+    <li><a href="formation.php">Formation</a></li>
+    <li><a href="contact.php">Contact</a></li>
   </ul>
 </nav>
 
