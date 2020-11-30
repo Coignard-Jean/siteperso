@@ -2,6 +2,30 @@
 
 Site web
 
+Installation git:
+
+. Vérifiez d'abord que vous avez installé Git:  "git --version"
+
+. Une fois Git installé, accédez au répertoire que vous souhaitez placer sous contrôle de version et créez un référentiel Git vide: "git init"
+  Cela crée un dossier caché, .git , qui contient la plomberie nécessaire au fonctionnement de Git.
+  
+. Vérifiez quels fichiers Git ajoutera à votre nouveau référentiel: "git status"
+
+.Si tous les fichiers de la liste doivent être partagés avec tous ceux qui ont accès au référentiel, une seule commande ajoute tout dans votre répertoire actuel et ses sous-répertoires: "git add"
+
+.Validez tous les fichiers ajoutés avec un message de validation: "git commit -m "Initial commit""
+
+.Pour ajouter une nouvelle télécommande, utilisez la commande git remote add sur le terminal, dans le répertoire où se trouve votre référentiel: "git remote add origin https://<your-git-service-address>/owner/repository.git"
+
+Commande à savoi:
+
+. Mettre à jour le dépôt local: git pull
+
+. Envoyer ses commits vers le dépôt distant: "git push"
+
+. Clone un dépôt dans un nouveau répertoire: "git clone"
+
+
 Élaborer la charte graphique :
 
 Pour mon site de présentation personnelle, j’ai donc décidé de rester sur quelque chose de sobre. C’est-à-dire de rester sur des couleur
