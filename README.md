@@ -17,7 +17,7 @@ Installation git:
 
 .Pour ajouter une nouvelle télécommande, utilisez la commande git remote add sur le terminal, dans le répertoire où se trouve votre référentiel: "git remote add origin https://<your-git-service-address>/owner/repository.git"
 
-Commande à savoi:
+Commande à savoir:
 
 . Mettre à jour le dépôt local: git pull
 
