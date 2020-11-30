@@ -41,4 +41,8 @@ décidé de mettre pour chaque page, un background image de dégradée avec un s
 
 Lien Heroku:
 
-https://dashboard.heroku.com/apps/app-jeancoignard/deploy/github
+https://app-jeancoignard.herokuapp.com/
+
+Lien Github:
+
+https://github.com/Coignard-Jean/siteperso
